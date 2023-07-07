@@ -16,7 +16,7 @@ Pentru a instala această aplicație, urmați pașii de mai jos:
 1. Clonează depozitul în directorul tău preferat:
 
     ```bash
-    git clone https://github.com/utilizator/proiect_ftp.git
+    git clone https://github.com/CheSergiu07/ftp_app.git
     ```
 
 2. Navigați în directorul client și instalați dependințele:

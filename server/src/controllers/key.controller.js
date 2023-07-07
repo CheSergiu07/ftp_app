@@ -1,0 +1,1 @@
+"exports.generateKey = (req, res) => {};" 
